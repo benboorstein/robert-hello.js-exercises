@@ -12,7 +12,8 @@
 //  $        dollar sign              dollar sign                   to signify a variable, function, property, event, or object
 //  {}       curly braces             curly braces                  to encase an object, a variable in a template literal, or the body of
 //                                                                  a function
-//  ,        comma                    comma (not "comma operator")  to separate operands, key-value pairs in an object, items in an array
+//  ,        comma                    comma (not "comma operator")  to separate operands, parameters, arguments, key-value pairs in an
+//                                                                  object, items in an array
 //  =>       an arrow                 arrow                         to replace, as part of an arrow function, several parts of a standard
 //                                                                  form function expression
 //  //       two forward slashes      foward slashes                to comment out a single line of code
